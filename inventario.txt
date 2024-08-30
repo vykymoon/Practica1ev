@@ -1,0 +1,4 @@
+Articulo {nombre = "CARRO", categoria = "Mecanico"}
+Articulo {nombre = "rampa", categoria = "construccion"}
+Articulo {nombre = "Lego", categoria = "juguete"}
+Articulo {nombre = "Bola", categoria = "Deportivo"}
